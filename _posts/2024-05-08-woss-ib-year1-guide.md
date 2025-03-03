@@ -8,11 +8,7 @@ tags: [ib, school, faq]
 
 ## Introduction
 
-> This post is work in progress! Many parts haven't been added or are unfinished or poorly written. 
-> 
-> Poorly written sentences wrapped around brackets () are merely placeholders and ideas for what to fully write.
->
-> Comment or DM at @fhdhgngn to let me know what you would like to see written! (I don't have a format so I'm writing all of this out of my butt lol)
+> This post is deprecated and no longer updated. Many parts of the post are incomplete.
 {: .prompt-warning }
 
 
