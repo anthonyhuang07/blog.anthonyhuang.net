@@ -40,15 +40,6 @@ Study spots are extremely important to succeed, and one of the best places aroun
 
 Semester 1 starts chill. You get to know the feel of IB and connect with your niche group of peers. The months of September to November feel normal, and there is generally no pressure. The month before Winter Break begins, you begin your [IAs](#internal-assessments-ias), where you will only be expected to finish a proposal. Over Winter Break, the only things you'll have to do is prepare for your IAs and maybe study extra if you're falling behind in your grades.
 
-### Semester 2 
-
-(perform ia)
-(sem1 exams)
-(ia crunch period [absolutely dreadful period])
-(chill learning period [ur teleported back to october])
-(ib exam crunch 😭)
-(relief)
-
 ## Grades
 
 ### Conversions
@@ -99,45 +90,11 @@ Finally, your final raw percentage is then matched to the level boundary of the 
 
 ## Course Information
 
-### HL English (ENG3UA)
-
-(HLE, do not do other class work in this class or else the teacher will beat you. homework homework homework)
-
-### SL French (FSF3UB, FSF4UB)
-
-(according to sl frenchers they say that its trash bc nobody knows french in the first place and its IB LOL)
-
 ### HL French (FIF3UB)
 
 This course is honestly nothing to worry about. You'll have regular writing, reading, listening and oral evaluations, and that's about it. This class is fun, most of the time we just goof around in it. If you keep up at a regular pace, a Level 7 is easy. You don't need to "grind" this class.
 
 The books we read were Le Bourgeois gentilhomme by Molière & Art by Yasmina Reza. The writing and oral evaluations will require knowledge of the books. Personally, I read Le Bourgeois gentilhomme in English and never read Art at all, and did completely fine (Level 6s) on the evaluations involving the books. So if you actually read the books, a Level 7 is easily achievable.
-
-### HL Geography (CGF3MB)
-
-(easy class, study literally during the week of a test LOL and play games during class (thats what most people did including me and i got a 6 bc i messed up two tests because i didnt pay attention to what i was supposed to know [skill issue]))
-
-### SL Chemistry (SCH3UA, SCH4UA)
-
-(idk apparently its chill, im doing it rn lol)
-
-Resources from my friend:
-- [MSJChem](https://www.youtube.com/@MSJChem/videos)
-
-### HL Chemistry (SCH3UB)
-
-(not that hard)
-
-Resources from my friend:
-- [MSJChem](https://www.youtube.com/@MSJChem/videos)
-
-### SL Biology (SBI3UA, SBI4UA)
-
-(easy? bro its biology)
-
-### HL Biology (SBI3UB)
-
-(easy? bro its biology)
 
 ### SL Physics (SPH3UB, SPH4UB)
 
@@ -150,7 +107,7 @@ The most well known resource for self-study is, of course, the IB Physics Textbo
 - [Andy Masley](https://www.youtube.com/@AndyMasley) (Old Syllabus but this is the channel I used 99% of the year, actually the GOAT)
 - [Chris Doner](https://www.youtube.com/@donerphysics) (New Syllabus, I personally didn't watch his videos but I know classmates raved about him)
 
-There are three IB Physics teachers - Mr. Paterson, Mr. O'Meara and Ms. Janssen. Mr. Paterson is the most controversial one, and I had him first semester, and we'll talk about him.
+There are two IB Physics teachers - Mr. Paterson and Ms. Janssen. Mr. Paterson is the most controversial one, and I had him first semester, and we'll talk about him.
 
 #### Mr. Paterson
 
@@ -167,21 +124,11 @@ A Spiral is technically a unit, but it is more commonly referred to as the name 
 
 It is really challenging to get a high score with Spirals, especially on Spiral 1. Most of the time, nobody gets a Level 7. They are designed that way! The general goal for Spiral 1 is a Level 4 - which is a great score to start. Then, from there, you need to steadily climb up until you reach Level 7 in the last tests and final IB exam.
 
-#### Mr. O'Meara
-
 #### Ms. Janssen
 
 Quoting my friend: "Janssen is the best physics teacher hands down. Her style of teaching is balanced so that you have enough time to process the material and learn it, but not enough that you can just skimp on studying. She is great at introducing the IB self-study archetype."
 
 I did not have Janssen both semesters but I have heard great things about her teaching - as she is pretty much the only IB Physics teacher that really teaches lessons. She also marks her IAs the highest, I've heard.
-
-### SL Math (MHF4UA, MCV4UA)
-
-(i fumbled so hard) (these marks important for uni so DONT FUMBLE LIKE ME, I DIDNT KNOW AT THE TIME (ATLEAST FOR MHF4U...))
-
-### HL Math (MHF4UB)
-
-(apparently it's hell. i mean it rivals sl physics in difficulty for a reason. so glhf)
 
 ## Internal Assessments (IAs)
 
